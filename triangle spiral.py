@@ -1,3 +1,4 @@
+#created by GuND0Wn151
 import turtle
 t=turtle.Turtle()
 t.color("red")
