@@ -1,3 +1,4 @@
+#created by GuND0Wn151
 import turtle
 a = turtle.Turtle()
 for i in range(500):
