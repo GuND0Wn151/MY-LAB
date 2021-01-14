@@ -13,8 +13,6 @@ s.left(90)
 s.fd(500)
 s.goto(0,0)
 s.bk(500)
-
-
 #y ot x
 for i in range(0,500,25):
     s.penup()
